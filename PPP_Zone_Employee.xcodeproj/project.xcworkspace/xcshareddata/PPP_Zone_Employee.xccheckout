@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>44C35217-409C-4707-949F-36382A80F2E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PPP_Zone_Employee</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>bc18d52e-60b8-604b-b9a9-a4287edb3e83</key>
+		<string>http://192.168.3.112:8090/FaceRecognition</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Trunk/CodeWithAttributePopup/PPE_Zone_Employee/PPP_Zone_Employee.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>bc18d52e-60b8-604b-b9a9-a4287edb3e83</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>bc18d52e-60b8-604b-b9a9-a4287edb3e83</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>bc18d52e-60b8-604b-b9a9-a4287edb3e83</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FaceRecognition</string>
+		</dict>
+	</array>
+</dict>
+</plist>

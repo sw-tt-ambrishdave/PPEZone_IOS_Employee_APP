@@ -1,0 +1,35 @@
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <QuartzCore/QuartzCore.h>
+#import <SDWebImage/SDImageCache.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+
+#import "Constant.h"
+#import "AppDelegate.h"
+#import "Reachability.h"
+#import "Utility.h"
+#import "SVProgressHUD.h"
+#import "MBProgressHUD.h"
+#import "PPEZoneEmployee.h"
+#import "MF_Base64Additions.h"
+#import "CapturePhotoVC.h"
+#import "RMScannerView.h"
+#import "loginVC.h"
+#import "Attributes.h"
+#import "mendatoryDetailsVC.h"
+
+#endif
+
+
+
+
+
+// 1 Show, 0 Hide
+#define NSLog if(0) NSLog
